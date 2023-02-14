@@ -1,5 +1,8 @@
-plugins {
+/*plugins {
     id 'com.android.application'
+}*/
+plugins {
+    id 'com.android.library'
 }
 
 android {
