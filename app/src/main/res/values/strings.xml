@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Test_Library</string>
+
+    <string name="disconnected">disconnected</string>
+    <string name="switch_off">Connected</string>
+    <string name="switch_on">Not Connected</string>
+
+
+
 </resources>
