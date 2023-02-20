@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public static void Toast_Sp(Context context){
-        Toast.makeText(context, "Test OK SP New Check 4", Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, "Test OK SP New Check latest 1 ", Toast.LENGTH_SHORT).show();
     }
 }
